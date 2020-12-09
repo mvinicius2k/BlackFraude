@@ -1,0 +1,17 @@
+D:\Code\BlackFraude\BlackFraude\bin\Release\BlackFraude.exe.config
+D:\Code\BlackFraude\BlackFraude\bin\Release\BlackFraude.exe
+D:\Code\BlackFraude\BlackFraude\bin\Release\BlackFraude.pdb
+D:\Code\BlackFraude\BlackFraude\bin\Release\Newtonsoft.Json.dll
+D:\Code\BlackFraude\BlackFraude\bin\Release\Newtonsoft.Json.xml
+D:\Code\BlackFraude\BlackFraude\obj\Release\BlackFraude.csprojAssemblyReference.cache
+D:\Code\BlackFraude\BlackFraude\obj\Release\BlackFraude.Properties.Resources.resources
+D:\Code\BlackFraude\BlackFraude\obj\Release\BlackFraude.csproj.GenerateResource.cache
+D:\Code\BlackFraude\BlackFraude\obj\Release\BlackFraude.csproj.CoreCompileInputs.cache
+D:\Code\BlackFraude\BlackFraude\obj\Release\BlackFraude.csproj.CopyComplete
+D:\Code\BlackFraude\BlackFraude\obj\Release\BlackFraude.exe
+D:\Code\BlackFraude\BlackFraude\obj\Release\BlackFraude.pdb
+D:\Code\BlackFraude\BlackFraude\bin\Release\HtmlAgilityPack.dll
+D:\Code\BlackFraude\BlackFraude\bin\Release\WebDriver.dll
+D:\Code\BlackFraude\BlackFraude\bin\Release\HtmlAgilityPack.pdb
+D:\Code\BlackFraude\BlackFraude\bin\Release\HtmlAgilityPack.xml
+D:\Code\BlackFraude\BlackFraude\bin\Release\WebDriver.xml

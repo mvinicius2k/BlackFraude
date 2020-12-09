@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BlackFraude.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="regras" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1660 ti,5500 8GB;1350;</Value>
+    </Setting>
+    <Setting Name="urls" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.kabum.com.br/hardware/placa-de-video-vga?pagina=1&amp;ordem=3&amp;limite=100&amp;prime=false&amp;marcas=[]&amp;tipo_produto=[]&amp;filtro=[[%2219%22,%2220%22]];https://www.pichau.com.br/hardware/placa-de-video?product_list_limit=48&amp;product_list_order=price;https://www.terabyteshop.com.br/hardware/placas-de-video;</Value>
+    </Setting>
+    <Setting Name="delay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25000</Value>
+    </Setting>
+    <Setting Name="beepar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="modoTurbo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="panico" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
